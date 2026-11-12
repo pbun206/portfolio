@@ -1,0 +1,14 @@
+# hugo build output and cache
+public/
+resources/_gen/
+.hugo_build.lock
+
+# dependencies
+node_modules/
+themes/blowfish/node_modules/
+
+# editor and system files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
