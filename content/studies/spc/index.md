@@ -13,8 +13,6 @@ In other words, I needed:
 - a system that helps me keep my windows organized
 - a system that prevents me from being distracted from side tasks
 
-Like any good problem, I started on paper. 
-
 
 ## Being Organized
 
